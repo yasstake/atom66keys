@@ -719,9 +719,7 @@
 </KEY>
 <KEY ID="43" Level="2" Mode="0" HWCode="0">
 <ComboKey>
-<List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
-</ComboKey>
-</KEY>
+<List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Dela
 <KEY ID="44" Level="0" Mode="1" HWCode="56">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
